@@ -1,2 +1,1 @@
-# shopify
-# shopify
+# shopify theme
